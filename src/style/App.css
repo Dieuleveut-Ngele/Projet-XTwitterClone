@@ -193,3 +193,27 @@ body{
     justify-content: center;
     gap: 20px;
 }
+.sidebar-left-nav {
+    display: flex;
+    gap: 15px;
+    margin: 15px;
+    font-family: candara, 'Inter', sans-serif;
+}
+.sidebar-title {
+    font-weight: 500;
+    font-size: 15px;
+}
+.button-sidebar {
+    color: white;
+    font-size: 1rem;
+    text-align: center;
+    padding: 10px 50px 10px 50px;
+    border: none;
+    border-radius: 50px;
+    background-color: #1D9BF0;
+   
+}
+.img-profile {
+  padding-bottom: 20px;
+}
+
